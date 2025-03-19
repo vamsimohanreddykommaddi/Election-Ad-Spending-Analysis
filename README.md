@@ -16,7 +16,7 @@ The analysis utilizes datasets containing:
 - **Election Results** – Voter turnout and election outcomes.
 
 ## 🛠️ Technologies Used
-- **Python** (Pandas, NumPy, Seaborn, Matplotlib, Plotly)
+- **Python** (Pandas, NumPy, Seaborn, Matplotlib)
 - **Data Visualization** (Histograms, Pie Charts, Scatter Plots, Bar Charts)
 - **Statistical Analysis** (Correlation between spending and voter turnout)
 
